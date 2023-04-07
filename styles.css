@@ -1,0 +1,22 @@
+div {
+    border-style: solid;
+    border-color: blue;
+    
+   
+}
+
+
+body{
+    background-color: black !important;
+}
+
+#first-row{
+    text-align: center;
+}
+
+#form-1{
+        border-style: solid;
+        border-color: blue;
+        
+       
+}
